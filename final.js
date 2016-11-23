@@ -5,7 +5,7 @@ var lineReader = require('readline').createInterface({
 
 
 var i=0;
-var arrayCountry=['Netherlands', 'Canada', 'United Kingdom' , 'United States' , 'Australia' , 'France' , 'Germany' , 'Spain', 'southEurope Africa'];
+var arrayCountry=['Netherlands', 'Canada', 'United Kingdom' , 'United States' , 'Australia' , 'France' , 'Germany' , 'Spain', 'South Africa'];
 var northEurope = ['United Kingdom', 'Denmark', 'Sweden','Norway'];
 var centralEurope= ['France', 'Belgium', 'Germany', 'Switzerland','Netherlands'];
 var southEurope = ['Portugal', 'Greece', 'Italy', 'Spain', 'Croatia','Albania'];
